@@ -17,6 +17,9 @@
 <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" height="25"/>
 <br>
 
+<p>Um pouco do CIVA:</p>
+<br>
+<img src="https://cdn.discordapp.com/attachments/322839218676170753/916443866578714654/civa.gif"/>
 
 <p>Banco de dados da aplicação:</p>
 <br>
@@ -24,6 +27,3 @@
 <br>
 <img src="https://cdn.discordapp.com/attachments/322839218676170753/916438193430216734/unknown.png"/>
 <br>
-<p>Um pouco do front-end:</p>
-<br>
-<img src="https://cdn.discordapp.com/attachments/322839218676170753/916443866578714654/civa.gif"/>
