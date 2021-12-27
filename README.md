@@ -1,6 +1,6 @@
 <h1>Apresentando a vocês um pouco do CIVA!</h1><br>
 <p>O civa vem sendo desenvolvido por um grupo de desenvolvedores para ajudar no controle da vacinação, não só no brasil, mas também internacionalmente.</p>
-<p>O projeto não é publico, então não poderei disponibilizar o link da aplicação completa em funcionamento.</p>
+<p>O PROJETO NÃO ESTA COMPLETO, apenas parte do código se encontra aqui</p>
 
 <p>Um pouco das tecnologias utilizadas por mim para o desenvolvimento do CIVA:</p> <br>
 
